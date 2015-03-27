@@ -152,7 +152,8 @@
 </body>
 </html>
 
-<?php 
+<?php
+$fileName = basename(__FILE__);
 include("php/header.php");
  ?>
 
